@@ -349,14 +349,14 @@ crontab -e
 --- 
 # Testes de Funcionlidades
 
-## Site com serviço disponível HTPP: 200.
+Site com serviço disponível HTPP: 200.
 
 
 ![Site essência gourmet](img/site.png)
 <br>
 
 
-## Serviço indisponível com HTPP: 503.
+ Serviço indisponível com HTPP: 503.
 
 
 ![Site fora do Ar](img/pagina-erro.png)
@@ -364,20 +364,20 @@ crontab -e
 <br>
 
 
-## Registros de logs de cada status do servidor, normal, forçando erro, fcia indisponível, restaura e volta ao serviço normal.
+Registros de logs de cada status do servidor, normal, forçando erro, fcia indisponível, restaura e volta ao serviço normal.
 
 
 ![Log dos status do serviço](img/registro-log.png)
 <br>
 
 
-## Registro mostra que o crontab está faznedo o script rodar a cada 1 minuto.
+Registro mostra que o crontab está faznedo o script rodar a cada 1 minuto.
 
 
 ![Registros do crontab](img/registro-cron.png)
 <br>
 
-## O script notificando a mensagem diretamente no webhook do discord.
+ O script notificando a mensagem diretamente no webhook do discord.
 
 
 ![Alertas de status do servidor](img/avisos-discord.png)
