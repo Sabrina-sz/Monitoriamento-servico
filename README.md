@@ -61,7 +61,7 @@ sudo systemctl start nginx
 ```bash
 sudo systemctl enable nginx
 ```
-Verificar status
+### Verificar status
 
 ```bash
 sudo systemctl status nginx
