@@ -386,7 +386,7 @@ Registros de logs de cada status do servidor, normal, forçando erro, fcia indis
 
 
 
-Registro mostra que o crontab está faznedo o script rodar a cada 1 minuto.
+Registro mostra que o crontab está fazendo o script rodar a cada 1 minuto.
 <br>
 
 
