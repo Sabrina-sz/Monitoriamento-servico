@@ -216,7 +216,7 @@ Após abrir o editor de texto, digite a linha a baixo na primeira linha, para de
 
 E depois pode começar a escrever os codigos.
 
-Arquivos necessarios para para da o erro, restaurar, e oq arquivo ARQUIVO_DESTINO serve só para erceber os aruqivos copiado 
+Arquivos necessarios para para da o erro, restaurar, e oq arquivo ARQUIVO_DESTINO serve só para receber os arquivos copiado 
 
 ARQUIVO_NORMAL="/etc/nginx/sites-available/essencia-gourmet-normal"
 ARQUIVO_ERRO="/etc/nginx/sites-available/essencia-gourmet-erro"
